@@ -7,10 +7,10 @@
 
 # Usage:
 
-#Go to app directory
+# Go to app directory
 
     cd app
 
-#Run command
+# Run command
 
     uvicorn main:app --reload
